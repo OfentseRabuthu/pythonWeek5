@@ -1,0 +1,6 @@
+This is the first line of text.
+Here is a number: 12345
+And another line with some more text.
+Appending a new line of text.
+Another appended line with more details.
+Final appended line to complete the task.
